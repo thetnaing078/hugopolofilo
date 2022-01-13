@@ -50,7 +50,7 @@ theme = "LoveIt"
   # site description
   description = "This is My Pofolio Site"
   # site keywords
-  keywords = ["Theme", "Hugo"]
+  keywords = ["Portfolio", "MATRiX"]
   # site default theme ("light", "dark", "auto")
   defaultTheme = "auto"
   # public git repo url only then enableGitInfo is true
